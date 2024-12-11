@@ -1,6 +1,6 @@
 # Frontend Mentor - Proform of web presence
 
-https://iliaivashkevich.github.io/ny
+https://iliamagari.github.io/ny
 
 ### Built with
 
