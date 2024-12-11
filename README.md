@@ -1,2 +1,2 @@
-# IliaIvashkevich.github.io
+# IliaMagari.github.io
 Frontend Mentor &amp; Other Projects
