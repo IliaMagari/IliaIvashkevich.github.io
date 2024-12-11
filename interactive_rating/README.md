@@ -9,7 +9,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://iliaivashkevich.github.io/interactive_rating]
+- Solution URL: [https://iliamagari.github.io/interactive_rating]
 
 ## My process
 
