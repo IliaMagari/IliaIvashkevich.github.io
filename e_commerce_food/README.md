@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-https://iliaivashkevich.github.io/e_commerce_food 
+https://iliamagari.github.io/e_commerce_food 
 
 ### Built with
 
