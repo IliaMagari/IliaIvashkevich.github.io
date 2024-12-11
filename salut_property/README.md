@@ -1,6 +1,6 @@
 # Frontend Mentor - Proform of web presence
 
-https://iliaivashkevich.github.io/salut_property
+https://iliamagari.github.io/salut_property
 
 ### Built with
 
