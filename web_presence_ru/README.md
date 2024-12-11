@@ -1,6 +1,6 @@
 # Frontend Mentor - Proform of web presence
 
-https://iliaivashkevich.github.io/web_presence_ru
+https://iliamagari.github.io/web_presence_ru
 
 ### Built with
 
